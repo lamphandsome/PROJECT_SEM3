@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PROJECT_SEM3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PROJECT_SEM3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\css\\maicons.css",
+      "PackagePath": "staticwebassets\\css\\maicons.css"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\fonts\\maicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\maicons.eot"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\fonts\\maicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\maicons.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\fonts\\maicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\maicons.ttf"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\fonts\\maicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\maicons.woff"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\app_store.svg",
+      "PackagePath": "staticwebassets\\img\\app_store.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\banner-pattern.svg",
+      "PackagePath": "staticwebassets\\img\\banner-pattern.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\bg-doctor.png",
+      "PackagePath": "staticwebassets\\img\\bg-doctor.png"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\bg_image_1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg_image_1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\blog\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\blog\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\blog\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\blog\\blog_4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\blog\\blog_5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_5.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\doctors\\doctor_1.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors\\doctor_1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\doctors\\doctor_2.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors\\doctor_2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\doctors\\doctor_3.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors\\doctor_3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\google_play.svg",
+      "PackagePath": "staticwebassets\\img\\google_play.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\mobile_app.png",
+      "PackagePath": "staticwebassets\\img\\mobile_app.png"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\person\\person_1.jpg",
+      "PackagePath": "staticwebassets\\img\\person\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\person\\person_2.jpg",
+      "PackagePath": "staticwebassets\\img\\person\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\person\\person_3.jpg",
+      "PackagePath": "staticwebassets\\img\\person\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\img\\person\\person_4.jpg",
+      "PackagePath": "staticwebassets\\img\\person\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\js\\google-maps.js",
+      "PackagePath": "staticwebassets\\js\\google-maps.js"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\js\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\vendor\\owl-carousel\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\vendor\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\vendor\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PROJECT_SEM3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PROJECT_SEM3.props",
+      "PackagePath": "build\\PROJECT_SEM3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PROJECT_SEM3.props",
+      "PackagePath": "buildMultiTargeting\\PROJECT_SEM3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PROJECT_SEM3.props",
+      "PackagePath": "buildTransitive\\PROJECT_SEM3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
