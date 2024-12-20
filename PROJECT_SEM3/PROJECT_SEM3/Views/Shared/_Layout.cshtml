@@ -20,6 +20,48 @@
 
   <link rel="stylesheet" href="/css/theme.css">
 </head>
+
+<style>
+    /* Đổi toàn bộ màu nền xanh lá sang đỏ */
+    .btn-primary,
+    .bg-primary,
+    .navbar-light .navbar-nav .nav-link.active {
+        background-color: red !important;
+        border-color: red !important;
+        color: white !important; /* Đổi màu chữ (nếu cần) */
+    }
+
+        /* Đổi màu khi hover */
+        .btn-primary:hover,
+        .bg-primary:hover,
+        .navbar-light .navbar-nav .nav-link.active:hover {
+            background-color: darkred !important;
+            border-color: darkred !important;
+        }
+
+    /* Đổi màu cho các thành phần sử dụng `text-primary` */
+
+    /* Đổi các màu liên quan khác (tuỳ chỉnh thêm nếu cần) */
+    .border-primary {
+        border-color: red !important;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev,
+    .owl-carousel .owl-nav button.owl-next {
+        background-color: #dc3545 !important; /* Màu đỏ */
+        color: white !important; /* Màu biểu tượng (mũi tên) */
+        border: none !important;
+        border-radius: 50%; /* Bo tròn nút nếu cần */
+    }
+
+        /* Thay đổi màu nền khi hover */
+        .owl-carousel .owl-nav button.owl-prev:hover,
+        .owl-carousel .owl-nav button.owl-next:hover {
+            background-color: #a71d2a !important; /* Màu đỏ đậm hơn khi hover */
+        }
+</style>
+
+
 <body>
 
   <!-- Back to top button -->
@@ -50,7 +92,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light shadow-sm">
       <div class="container">
-        <a class="navbar-brand" href="#"><span class="text-primary">One</span>-Health</a>
+                <img src="~/img/logo-hoi-chu-thap-do-inkythuatso-01-22-13-54-38.jpg" alt="Hoi Chu thap do" width="50" style="margin-right: 20px;">
 
         <form action="#">
           <div class="input-group input-navbar">
