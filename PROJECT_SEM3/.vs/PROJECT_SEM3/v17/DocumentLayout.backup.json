@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\views\\home\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\views\\home\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\views\\home\\blog_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\views\\home\\blog_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\wwwroot\\css\\maicons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\wwwroot\\css\\maicons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|c:\\users\\admin\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\project_sem3\\project_sem3\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D73BE0-9ACD-4328-AB88-2BD96F1B3574}|PROJECT_SEM3\\PROJECT_SEM3.csproj|solutionrelative:project_sem3\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "PROJECT_SEM3\\wwwroot\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T04:39:38.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "PROJECT_SEM3\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:28:14.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "maicons.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\css\\maicons.css",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\wwwroot\\css\\maicons.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\wwwroot\\css\\maicons.css",
+              "RelativeToolTip": "PROJECT_SEM3\\wwwroot\\css\\maicons.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T04:22:32.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blog_details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Blog_details.cshtml",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\Views\\Home\\Blog_details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Blog_details.cshtml",
+              "RelativeToolTip": "PROJECT_SEM3\\Views\\Home\\Blog_details.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:12:04.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PROJECT_SEM3\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:06:52.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "PROJECT_SEM3\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAAAAYBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:00:35.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PROJECT_SEM3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:36:37.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Doctors.cshtml",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\Views\\Home\\Doctors.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Home\\Doctors.cshtml",
+              "RelativeToolTip": "PROJECT_SEM3\\Views\\Home\\Doctors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:29:07.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PROJECT_SEM3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dgergrrg\\PROJECT_SEM3\\PROJECT_SEM3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PROJECT_SEM3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:11:57.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
